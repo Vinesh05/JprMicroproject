@@ -3,7 +3,7 @@ import java.applet.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class main extends Applet implements ActionListener {
+public class Login extends Applet implements ActionListener {
 
     TextField name,pass;
     Button submit, exit;
