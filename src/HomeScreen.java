@@ -58,7 +58,7 @@ public class HomeScreen extends Applet implements ItemListener, ActionListener {
         deposit.setForeground(Color.WHITE);
         withdraw.setBounds(300,100,80,20);
         withdraw.setForeground(Color.WHITE);
-        show_details.setBounds(400,100,80,20);
+        show_details.setBounds(400,100,100,20);
         show_details.setForeground(Color.WHITE);
         acc_no.setBounds(280,150,160,20);
         amount.setBounds(280,200,160,20);

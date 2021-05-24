@@ -64,7 +64,7 @@ public class NewAccount extends Applet implements ActionListener {
 
     public void add_account(){
         int no_of_acc = AccountsArray.no_of_accounts;
-        if(no_of_acc<4){
+        if(no_of_acc<5){
             String account_number = "190004011" + no_of_acc;
             String holderName = holder_name.getText();
             String account_type;
